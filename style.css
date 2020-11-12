@@ -1,0 +1,12 @@
+h2 {background: rgb(3, 73, 118);
+    color: aliceblue}
+
+table {
+    color: rgb(3, 73, 118);
+    background: rgb(213, 233, 237);
+    cellpadding="10" border="10"
+}
+
+img {
+    width: 20%;
+}
